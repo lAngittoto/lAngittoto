@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi Im Allan Aranda 👋
 
-<!--
-**lAngittoto/lAngittoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on improving my web development skills and building small projects to level up as a Full-Stack developer.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning advanced JavaScript, React, Node.js, and database management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on interesting web projects and anything that can challenge my coding skills.
+
+🤔 I’m looking for help with best practices in full-stack development and project structuring.
+
+💬 Ask me about JavaScript, web development, or gaming strategies.
+
+📫 How to reach me: [your email or LinkedIn]
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I’m a gamer who’s sometimes lazy, sometimes super productive — the perfect balance for coding marathons!
