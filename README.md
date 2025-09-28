@@ -6,4 +6,5 @@
 
 👯 I’m looking to collaborate on interesting web projects and anything that can challenge my coding skills.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lAngittoto&show_icons=true&theme=radical)
 
