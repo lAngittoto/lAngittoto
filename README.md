@@ -8,10 +8,3 @@
 
 🤔 I’m looking for help with best practices in full-stack development and project structuring.
 
-💬 Ask me about JavaScript, web development, or gaming strategies.
-
-📫 How to reach me: [your email or LinkedIn]
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I’m a gamer who’s sometimes lazy, sometimes super productive — the perfect balance for coding marathons!
